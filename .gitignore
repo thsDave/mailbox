@@ -1,0 +1,6 @@
+/test/*
+fleetsys.code-workspace
+test.php
+app/config/config.php
+/app/tools/cronos/config.php
+/.htaccess
